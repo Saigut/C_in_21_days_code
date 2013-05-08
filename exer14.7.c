@@ -1,3 +1,8 @@
+/* 
+   Method to use this program:
+   Run in console: program_name < a_file
+*/
+
 #include <stdio.h>
 
 int main( void )
