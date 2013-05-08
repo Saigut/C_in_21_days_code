@@ -11,7 +11,7 @@ int main( void )
         for (i = 0; i < 261; i++)
                 chara[i] = '\0';
 
-        while ((ch = getchar()) != EOF )
+        while ((ch = getchar()) != EOF)
         {
                 i = 0;
 
