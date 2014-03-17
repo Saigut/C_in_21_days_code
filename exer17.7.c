@@ -1,0 +1,4 @@
+/*
+  all lowercase;
+  strstr();
+*/

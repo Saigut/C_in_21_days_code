@@ -1,0 +1,16 @@
+Last read page: 371
+          content for searching: 
+Day 10 key: 882
+Day 11: 276
+Appendix A: 811
+malloc(): 258
+actual page = book' page + 27
+计算 string length: strlen(pointer) 
+string-copying: strcpy()
+187右上 188右下 201左上 200左下
+205横 186竖 32space
+
+vi: vsp xx 竖分屏打开新文件
+    sp xx  横分屏打开新文件
+    C + w - w 切换窗口，顺时针
+    C + w - h/j/k/l 切换窗口
